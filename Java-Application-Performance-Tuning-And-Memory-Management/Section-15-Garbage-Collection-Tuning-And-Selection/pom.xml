@@ -1,0 +1,18 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.sid.tutorials.performance.tuning.memory.management</groupId>
+		<artifactId>Java-Application-Performance-Tuning-And-Memory-Management</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	<artifactId>Section-15-Garbage-Collection-Tuning-And-Selection</artifactId>
+	<name>Section-15-Garbage-Collection-Tuning-And-Selection</name>
+	<description>Section-15-Garbage-Collection-Tuning-And-Selection</description>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<Project.name>Section-15-Garbage-Collection-Tuning-And-Selection</Project.name>
+	</properties>
+</project>
